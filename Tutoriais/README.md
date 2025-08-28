@@ -1,2 +1,2 @@
-# Projeto 1
-só para ver como está sendo feito
+# Tutoriais
+é o diretorio dedicado para pequenas dicas para Engenheiros de dados e Administradores de Banco de dados 
